@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    username:
+#    password:
+#    url:
+#    driver-class-name:
+#
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties.hibernate.dialect:
